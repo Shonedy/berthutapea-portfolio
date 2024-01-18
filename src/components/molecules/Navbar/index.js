@@ -25,7 +25,7 @@ export default function Navbar() {
     { title: "About", link: "/about", icon: <RiFolderInfoFill /> },
     { title: "Project", link: "/project", icon: <MdWork /> },
     { title: "Contact", link: "/contact", icon: <RiContactsBook2Fill /> },
-    { title: "Blog", link: "/blog", icon: <ImBlog /> },
+   
   ];
   const activeLink = ({ isActive }) => {
     return {
@@ -64,7 +64,7 @@ export default function Navbar() {
       <div className="w-full flex items-center justify-between px-3 md:px-24 py-3">
         <div>
           <Link to="/">
-            <h1 className="text-2xl text-primary font-lobster">Gilbert Hutapea</h1>
+            <h1 className="text-2xl text-primary font-lobster">Shoned</h1>
           </Link>
         </div>
         <div>
@@ -83,7 +83,7 @@ export default function Navbar() {
 
             <a
               className="inline-block ml-4"
-              href="https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link"
+              href="https://drive.google.com/file/d/1zhKusz4O9PbYoB4ELqa4s0d1sNGdQVAg/view?usp=sharing"
               target="blank"
             >
               <PrimaryBtn>
@@ -131,7 +131,7 @@ export default function Navbar() {
                 <li className="text-center m-4">
                   <a
                     className="inline-block w-full"
-                    href="https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link"
+                    href="https://drive.google.com/file/d/1zhKusz4O9PbYoB4ELqa4s0d1sNGdQVAg/view?usp=sharing"
                     target="blank"
                   >
                     <button className="primary-button w-full text-white">

@@ -26,14 +26,13 @@ const Banner = () => {
         transition={{ duration: 1 }}
       >
         <h2 className="text-neutral text-xl font-medium translate-y-[-90%] sm:translate-y-[-0%]">Hello, I'm</h2>
-        <h1 className="text-4xl font-semibold mb-0 translate-y-[-50%] sm:translate-y-[-0%]">Gilbert Hutapea</h1>
+        <h1 className="text-4xl font-semibold mb-0 translate-y-[-50%] sm:translate-y-[-0%]">Shane Eduard</h1>
         <div className="my-4">
           <TypeAnimation
             className="text-2xl text-primary font-bold translate-y-[-80%] sm:translate-y-[-0%]"
             cursor={true}
             sequence={[
-              "A Mern-stack Developer",
-              2000,
+              
               "A Full-stack Developer",
               2000,
               "A Front-end Developer",
@@ -55,7 +54,7 @@ const Banner = () => {
 
         <div className="flex items-center translate-y-[-60%] sm:translate-y-[-0%]">
           <a
-            href="https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link"
+            href="https://drive.google.com/file/d/1zhKusz4O9PbYoB4ELqa4s0d1sNGdQVAg/view?usp=sharing"
             target="blank"
           >
             <button className="primary-button">

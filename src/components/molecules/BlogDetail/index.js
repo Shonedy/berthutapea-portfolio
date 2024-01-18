@@ -43,7 +43,7 @@ const BlogDetail = () => {
       </div>
       <div className="flex items-center justify-between flex-wrap mt-16 mb-4">
         <span>
-          <strong className="text-primary">Gilbert Hutapea</strong>
+          <strong className="text-primary">Shane Eduard</strong>
         </span>
         <span>
           <strong className="text-primary">{blog?.date}</strong>

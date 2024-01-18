@@ -36,7 +36,7 @@ const About = () => {
             }}
           >
             <img
-              src="https://res.cloudinary.com/du541igfh/image/upload/v1683035791/Blog%20Portfolio%20Gilbert/Project/berthutapea.com/GilbertHutapea_qjy2gq.png"
+              src="shaneme.jpeg"
               alt="Gilbert Hutapea"
               className="p-12 w-70 h-70 transform translate-y-[-12%]"
               title="Gilbert Hutapea"
@@ -58,8 +58,7 @@ const About = () => {
                 className="text-2xl text-primary font-bold text-center translate-y-[-500%] sm:translate-y-[-0%]  sm:text-2xl sm:mb-2 md:text-left"
                 cursor={true}
                 sequence={[
-                  "A Mern-stack Developer",
-                  2000,
+                  
                   "A Full-stack Developer",
                   2000,
                   "A Front-end Developer",
@@ -70,7 +69,7 @@ const About = () => {
               />
             </div>
             <p className="text-neutral font-medium text-center translate-y-[-100%] sm:translate-y-[-0%] sm:mb-2 md:text-left">
-              As a MERN stack developer, I am committed to building high-quality
+              As a Full stack developer, I am committed to building high-quality
               web applications that meet the needs of my clients. With years of
               experience in full-stack web development, I specialize in using
               React.js, Next js, Typescript, MongoDB, Express.js, and Node.js to
@@ -90,20 +89,19 @@ const About = () => {
             </p>
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-x-12 gap-y-4 mt-4 text-center translate-y-[-50%] sm:translate-y-[-0%] sm:mb-2 md:text-left ">
               <h2 className="font-medium">
-                <span className="mr-2 text-primary">Name : </span>Gilbert Hutapea
+                <span className="mr-2 text-primary">Name : </span>Shane Eduard
               </h2>
               <h2 className="font-medium">
-                <span className="mr-2 text-primary">Phone : </span>+62 823 6148 4992
+                <span className="mr-2 text-primary">Phone : </span>+639494484432
               </h2>
               <h2 className="font-medium">
-                <span className="mr-2 text-primary">Email : </span>
-                berthutapea@gmail.com
+                <span className="mr-2 text-primary">Email : </span>shaneeduard5@gmail.com
               </h2>
               <h2 className="font-medium">
-                <span className="mr-2 text-primary">Address : </span>Karawang, Jawa Barat, Indonesia
+                <span className="mr-2 text-primary">Address : </span>Pagadian City, Philippines
               </h2>
               <a
-                href="https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link"
+                href="https://drive.google.com/file/d/1zhKusz4O9PbYoB4ELqa4s0d1sNGdQVAg/view?usp=sharing"
                 target="blank"
               >
                 <div className="flex justify-center md:justify-start translate-y-[60%] sm:translate-y-[-0%]">

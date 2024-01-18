@@ -31,11 +31,10 @@ const MySkill = () => {
   const frameworks = [
     { title: "React", icon: <FaReact className="text-cyan-400" /> },
     { title: "Bootstrap", icon: <FaBootstrap className="text-indigo-600" /> },
-    { title: "Tailwind", icon: <SiTailwindcss className="text-cyan-400" /> },
-    { title: "ExpressJS", icon: <SiExpress className="text-neutral" /> },
+    
   ];
   const tools = [
-    { title: "MongoDB", icon: <SiMongodb className="text-green-500" /> },
+   
     { title: "GitHub", icon: <FaGithub className="text-black" /> },
     { title: "Firebase", icon: <SiFirebase className="text-yellow-500" /> },
     {

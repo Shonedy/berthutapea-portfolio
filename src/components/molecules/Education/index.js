@@ -32,29 +32,16 @@ const Education = () => {
           <div className="p-6 bg-[#313131] bg-opacity-90 backdrop-blur-lg rounded-lg shadow-lg inline-block w-[300px] hover:shadow-primary duration-300 cursor-pointer">
             <div className="text-right mb-4">
               <h3 className="text-2xl font-semibold text-primary">
-                Diploma in CSE
+                Studying
               </h3>
               <p className="text-sm text-neutral font-semibold">2021 - 2025</p>
             </div>
             <p className="text-sm text-neutral text-justify">
-              I am currently studying in Informatics Engineering (4th Semester) at Sekolah Tinggi Teknologi Informatika Sony Sugema, Karawang, Jawa Barat, Indonesia
+              I am currently studying in Information Technologies (3rd Semester) at Saint Columban College
             </p>
           </div>
 
-          {/* React Developer */}
-          <div className="my-6 md:my-4 md:ml-[200px] p-6 bg-[#313131] bg-opacity-90 backdrop-blur-lg rounded-lg shadow-lg w-[300px] hover:shadow-primary duration-300 cursor-pointer">
-            <div className="text-right mb-4">
-              <h3 className="text-2xl font-semibold text-primary">
-                React Developer
-              </h3>
-              <p className="text-sm text-neutral font-semibold">2023</p>
-            </div>
-            <p className="text-sm text-neutral text-justify">
-              I have successfully completed the <b>React Web Developer Expert</b>{" "}
-              from Dicoding.
-            </p>
-          </div>
-
+        
           {/* SSC */}
           <div className="p-6 bg-[#313131] bg-opacity-90 backdrop-blur-lg rounded-lg shadow-lg w-[300px] hover:shadow-primary duration-300 cursor-pointer">
             <div className="text-right mb-4">
@@ -62,8 +49,7 @@ const Education = () => {
               <p className="text-sm text-neutral font-semibold">2018 - 2021</p>
             </div>
             <p className="text-sm text-neutral text-justify">
-              I have passed the Senior Secondary Certificate (SSC) with the
-              highest result <b>GPA - 88</b>
+              I have passed the Senior Secondary Certificate (SSC) at Zamboanga Del Sur National Highschool Senior High
             </p>
           </div>
         </div>

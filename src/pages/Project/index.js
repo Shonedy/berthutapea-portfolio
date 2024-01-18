@@ -134,14 +134,11 @@ const Project = () => {
                     <h3 className="text-2xl text-primary font-semibold">
                       {item.title}
                     </h3>
-                    <Link
-                      to={`/project/${item.id}`}
-                      className="mt-3 inline-block"
-                    >
+                  
                       <button className="btn btn-sm border-2 border-transparent bg-primary hover:bg-transparent text-white hover:border-primary duration-500">
                         See Details
                       </button>
-                    </Link>
+                   
                   </div>
                 </div>
               </motion.div>
